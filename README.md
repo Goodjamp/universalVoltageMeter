@@ -7,5 +7,5 @@ Main functionality:
 
 Measure rezults indication:
 - Indication measure rezults on local OLED display.
-- Wireless interface for transfer measure rezults  on PC or Android.
-- USB HID  interface for transfer measure rezults  on PC.
+- Wireless interface for transfer measure rezults  to PC or Android.
+- USB HID  interface for transfer measure rezults  to PC.
